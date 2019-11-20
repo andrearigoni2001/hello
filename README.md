@@ -43,7 +43,7 @@ There are basic styles included in `style.css` but go wild and make it your own,
 
 ### Bonus Style
 
-![2](screenshot2.png)
+![2](cattura.png)
 
 There is another style option included within this repository. If you change the CSS file specified on **line 7** in `index.html` to:
 
